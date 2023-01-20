@@ -1,0 +1,12 @@
+{
+    "discord": {
+        "token": "",
+        "guildTest": ""
+    },
+    "lavalink": {
+        "host": "localhost",
+        "port": 443,
+        "secure": false,
+        "password": ""
+    }
+}
