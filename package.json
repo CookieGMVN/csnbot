@@ -4,8 +4,7 @@
     "@discordjs/rest": "^1.5.0",
     "csn.js": "^0.6.2",
     "discord-api-types": "^0.37.28",
-    "discord.js": "^14.7.1",
-    "moonlink.js": "^1.9.17"
+    "discord.js": "^14.7.1"
   },
   "devDependencies": {
     "eslint": "^8.32.0"
