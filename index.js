@@ -1,5 +1,4 @@
 const { Client, GatewayIntentBits, Partials, Collection } = require("discord.js");
-const { MoonlinkManager } = require('moonlink.js');
 const { Manager } = require("@cookiegmvn/erela");
 const CSN = require("csn.js");
 const Config = require("./data/config.json");
